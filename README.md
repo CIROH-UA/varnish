@@ -1,5 +1,9 @@
 # {varnish}: Template for The Carpentries Workbench <img src='man/figures/logo.png' align='right' alt='' width=120 />
 
+- NOTE: This repository has been moved to its new location : https://github.com/CIROH-UA/varnish
+- Please do all active work on : https://github.com/CIROH-UA/varnish
+- This repository has been archived and made Read Only.
+- 
 [![varnish status badge](https://carpentries.r-universe.dev/badges/varnish)](https://carpentries.r-universe.dev)
 
 This project is part of [The Carpentries
